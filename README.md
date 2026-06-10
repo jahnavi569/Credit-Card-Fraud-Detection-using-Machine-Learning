@@ -1,4 +1,5 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
+## Credit Card Fraud Detection using Machine Learning
+# Overview
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques on an imbalanced dataset.
 # Workflow
 Data preprocessing and feature scaling
@@ -12,6 +13,5 @@ XGBoost
 Precision
 Recall
 ROC-AUC
-Objective
-
-# Improve fraud detection performance while minimizing false negatives in transaction classification.
+# Goal
+Improve fraud detection accuracy and reduce false negatives in transaction classification.
